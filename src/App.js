@@ -8,6 +8,7 @@ function App() {
         <p>"Doge to the MOON" - not not Brandon Heiss</p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
+      <p className="adver">..hiring graphic designers</p>
     </div>
   );
 }
