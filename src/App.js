@@ -6,7 +6,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>"Doge to the MOON" - not not Brandon Heiss</p>
-        <p> edit from iPhone! </p>
         <img src={logo} className="App-logo" alt="logo" />
       </header>
     </div>
